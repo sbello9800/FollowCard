@@ -1,0 +1,19 @@
+body{
+    background: #121212;
+    margin: 0;
+    font-family: system-ui;
+    display: grid;
+    place-content: center;
+    min-height: 100vh;
+}
+
+img{
+    min-height: 80px;
+    min-width: 80px;
+}
+
+.root{
+    border-radius: 1rem;
+    border-color: #bbb;
+    
+}
