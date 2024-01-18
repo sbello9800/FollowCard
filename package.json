@@ -11,7 +11,8 @@
     "deploy": "gh pages -d ."
   },
   "dependencies": {
-    "gh": "^1.11.14",
+    "gh": "^1.17.5",
+    "github": "^14.0.0",
     "pages": "^0.0.16",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
